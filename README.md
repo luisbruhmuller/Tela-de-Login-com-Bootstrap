@@ -41,3 +41,5 @@ Utilização adequada das classes do Bootstrap (container, row, col, form-contro
 Código HTML bem estruturado e identado
 Uso correto de tags semânticas
 
+<img width="1918" height="985" alt="como_deve_ficar" src="https://github.com/user-attachments/assets/68a47c09-b293-48b2-a213-ec9e58527813" />
+
